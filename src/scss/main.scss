@@ -1,11 +1,13 @@
 
-@import "fonts";
+
 @import "vendor";
 @import "vars";
 @import "settings";
 
 body {
-  background-color: red;
-	background-image: url("../img/2.jpg");
-	color: red;
+  background-color: rgb(233, 245, 244);
+	
+	color: rgb(0, 0, 0);
+  padding: 50px;
+  text-align: center;
 }
